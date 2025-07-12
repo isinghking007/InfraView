@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MT7YhXOUyzuAl1kq2kfzQOrSUiWLaknwGgJOq1LPuFQ=",
+  "Source": "InfraViewAPI",
+  "BasePath": "_content/InfraViewAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
