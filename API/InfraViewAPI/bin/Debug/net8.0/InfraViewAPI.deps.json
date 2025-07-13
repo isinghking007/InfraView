@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "InfraViewAPI/1.0.0": {
         "dependencies": {
-          "Swashbuckle.AspNetCore": "6.6.2"
+          "Swashbuckle.AspNetCore": "6.6.2",
+          "System.Management": "9.0.7"
         },
         "runtime": {
           "InfraViewAPI.dll": {}
@@ -58,6 +59,33 @@
           "lib/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
             "assemblyVersion": "6.6.2.0",
             "fileVersion": "6.6.2.401"
+          }
+        }
+      },
+      "System.CodeDom/9.0.7": {
+        "runtime": {
+          "lib/net8.0/System.CodeDom.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.725.31616"
+          }
+        }
+      },
+      "System.Management/9.0.7": {
+        "dependencies": {
+          "System.CodeDom": "9.0.7"
+        },
+        "runtime": {
+          "lib/net8.0/System.Management.dll": {
+            "assemblyVersion": "9.0.0.7",
+            "fileVersion": "9.0.725.31616"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.7",
+            "fileVersion": "9.0.725.31616"
           }
         }
       }
@@ -110,6 +138,20 @@
       "sha512": "sha512-mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    },
+    "System.CodeDom/9.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-skI5aEl6XbZelP1hZvSmzzm3mM98k22x19Zu1Lf4rmuYoFEMJr7s7Te/MWUk9twjz4utyXt3q3pYXxGxI/Y+zA==",
+      "path": "system.codedom/9.0.7",
+      "hashPath": "system.codedom.9.0.7.nupkg.sha512"
+    },
+    "System.Management/9.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9wHNgKnZRFLZ/vSQ7+Ai9LrKkxEKh9LvC+Ta5dwQgPsyni0ET5igPATg01WW4bx/E5Q3VtRgEGithhOXaKIh0A==",
+      "path": "system.management/9.0.7",
+      "hashPath": "system.management.9.0.7.nupkg.sha512"
     }
   }
 }

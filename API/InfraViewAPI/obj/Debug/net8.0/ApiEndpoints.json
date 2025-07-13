@@ -1,5 +1,51 @@
 [
   {
+    "ContainingType": "InfraViewAPI.Controllers.DeviceController",
+    "Method": "GetConnectedDevices",
+    "RelativePath": "allDevices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InfraViewAPI.Controllers.MachineController",
+    "Method": "DetectMachineDetails",
+    "RelativePath": "api/Machine/detect",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InfraViewAPI.Controllers.MachineController",
+    "Method": "GetMachineDetails",
+    "RelativePath": "api/Machine/machineDetails/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InfraViewAPI.Controllers.DeviceController",
+    "Method": "GetDeviceLogs",
+    "RelativePath": "getDeviceLogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "InfraViewAPI.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

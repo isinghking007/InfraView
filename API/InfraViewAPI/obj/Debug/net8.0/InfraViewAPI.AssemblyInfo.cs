@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfraViewAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0603a95f3748fab618736c407f539a93390d15")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfraViewAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfraViewAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

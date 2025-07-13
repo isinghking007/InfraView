@@ -34,3 +34,7 @@ D:\Projects\InfraView\API\InfraViewAPI\obj\Debug\net8.0\refint\InfraViewAPI.dll
 D:\Projects\InfraView\API\InfraViewAPI\obj\Debug\net8.0\InfraViewAPI.pdb
 D:\Projects\InfraView\API\InfraViewAPI\obj\Debug\net8.0\InfraViewAPI.genruntimeconfig.cache
 D:\Projects\InfraView\API\InfraViewAPI\obj\Debug\net8.0\ref\InfraViewAPI.dll
+D:\Projects\InfraView\API\InfraViewAPI\obj\Debug\net8.0\InfraViewAPI.sourcelink.json
+D:\Projects\InfraView\API\InfraViewAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\InfraView\API\InfraViewAPI\bin\Debug\net8.0\System.Management.dll
+D:\Projects\InfraView\API\InfraViewAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
